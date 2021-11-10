@@ -1,0 +1,1 @@
+/Users/wcastrov/projects/personal/rust/the_book/restaurant/target/debug/librestaurant.rlib: /Users/wcastrov/projects/personal/rust/the_book/restaurant/src/front_of_house/hosting.rs /Users/wcastrov/projects/personal/rust/the_book/restaurant/src/front_of_house.rs /Users/wcastrov/projects/personal/rust/the_book/restaurant/src/lib.rs
